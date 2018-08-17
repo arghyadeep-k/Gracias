@@ -1,0 +1,29 @@
+{
+  "name": "gracias",
+  "version": "1.0.0",
+  "description": "NA",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghyadeep-k/Gracias.git"
+  },
+  "keywords": [
+    "nodejs",
+    "twitter",
+    "twitter",
+    "bot",
+    "bot"
+  ],
+  "author": "Arghyadeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arghyadeep-k/Gracias/issues"
+  },
+  "homepage": "https://github.com/arghyadeep-k/Gracias#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
